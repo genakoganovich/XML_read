@@ -1,10 +1,14 @@
 from xml.dom import minidom
 
 # parse a xml file by name
-file = minidom.parse('input/template.xml')
+with minidom.parse('input/template.xml') as file:
+    count = 1
 
-for line in file.getElementsByTagName('line'):
-    for part in line.getElementsByTagName('text'):
-        print(part.childNodes[0].data, end='')
+    for line in file.getElementsByTagName('line'):
+        print('C{0:2d}  '.format(count), end='')
 
-    print()
+        for part in line.getElementsByTagName('text'):
+            print(part.childNodes[0].data, end='')
+
+        print()
+        count += 1

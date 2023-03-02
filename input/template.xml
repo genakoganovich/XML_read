@@ -4,222 +4,142 @@
 
     <lines>
         <line number="C01">
-            <text>C 1</text>
-			<text>  </text>
 			<text>CLIENT:</text>
             <text>                        </text>
             <text>PROCESSING COMPANY: GEOMAGE 2003 LTD.</text>
             <text>       </text>
         </line>
         <line number="C02">
-            <text>C 2</text>
-			<text>  </text>
 			<text>LINE:</text>
             <text>                          </text>
             <text>AREA:</text>
             <text>                                       </text>
         </line>
         <line number="C03">
-            <text>C 3</text>
-			<text>  </text>
 			<text>SAMPLE INTERVAL:</text>
             <text>               </text>
             <text>SAMPLE TRACE LENGTH:</text>
             <text>                        </text>
         </line>
         <line number="C04">
-            <text>C 4</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C05">
-            <text>C 5</text>
-			<text>  </text>
 			<text>DATA:</text>
             <text>                                                                      </text>
         </line>
         <line number="C06">
-            <text>C 6</text>
-			<text>  </text>
 			<text>PRODUCT:</text>
             <text>                                                                   </text>
         </line>
         <line number="C07">
-            <text>C 7</text>
-			<text>  </text>
             <text>DATUM/TOPO:</text>
 			<text>                    </text>
             <text>REPLACEMENT VELOCITY:</text>
             <text>                       </text>
         </line>
         <line number="C08">
-            <text>C 8</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C09">
-            <text>C 9</text>
-			<text>  </text>
 			<text>PROCESSING SEQUENCE:</text>
             <text>                                                       </text>
         </line>
         <line number="C10">
-            <text>C10</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C11">
-            <text>C11</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C12">
-            <text>C12</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C13">
-            <text>C13</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C14">
-            <text>C14</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C15">
-            <text>C15</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C16">
-            <text>C16</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C17">
-            <text>C17</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C18">
-            <text>C18</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C19">
-            <text>C19</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C20">
-            <text>C20</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C21">
-            <text>C21</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C22">
-            <text>C22</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C23">
-            <text>C23</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C24">
-            <text>C24</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C25">
-            <text>C25</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C26">
-            <text>C26</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C27">
-            <text>C27</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C28">
-            <text>C28</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C29">
-            <text>C29</text>
-			<text>  </text>
 			<text>HEADER DESCRIPTION:</text>
             <text>                                                        </text>
         </line>
         <line number="C30">
-            <text>C30</text>
-			<text>  </text>
             <text>CDP-21 (I4); CDP X-181 (I4); CDP Y-185 (I4); CDP Z-41 (I4);</text>
             <text>                </text>
         </line>
         <line number="C31">
-            <text>C31</text>
-			<text>  </text>
             <text>SCALAR TO ALL ELEVATIONS-69 (I2);</text>
             <text>                                          </text>
         </line>
         <line number="C32">
-            <text>C32</text>
-			<text>  </text>
             <text>SCALAR TO ALL COORDINATES-71 (I2);</text>
             <text>                                         </text>
         </line>
         <line number="C33">
-            <text>C33</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C34">
-            <text>C34</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C35">
-            <text>C35</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C36">
-            <text>C36</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C37">
-            <text>C37</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C38">
-            <text>C38</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C39">
-            <text>C39</text>
-			<text>  </text>
             <text>                                                                           </text>
         </line>
         <line number="C40">
-            <text>C40</text>
-			<text>  </text>
 			<text>END EBCDIC</text>
             <text>                                                                 </text>
         </line>
