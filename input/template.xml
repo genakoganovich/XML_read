@@ -2,21 +2,22 @@
 <part_header>
     <lines_number>40</lines_number>
     <line_length>80</line_length>
+    <column_width>31</column_width>
 
     <lines>
         <line number="C01">
-			<part>CLIENT:</part>
-            <part><q>24</q></part>
+			<part>CLIENT: </part>
+            <part type="c"> </part>
             <part>PROCESSING COMPANY: GEOMAGE 2003 LTD.</part>
         </line>
         <line number="C02">
-			<part>LINE:</part>
-            <part><q>26</q></part>
+			<part>LINE: </part>
+            <part type="c"> </part>
             <part>AREA:</part>
         </line>
         <line number="C03">
-			<part>SAMPLE INTERVAL:</part>
-            <part><q>15</q></part>
+			<part>SAMPLE INTERVAL: </part>
+            <part type="c"> </part>
             <part>SAMPLE TRACE LENGTH:</part>
         </line>
         <line number="C04">
@@ -28,14 +29,14 @@
 			<part>PRODUCT:</part>
         </line>
         <line number="C07">
-            <part>DATUM/TOPO:</part>
-			<part><q>20</q></part>
-            <part>REPLACEMENT VELOCITY:</part>
+            <part>DATUM/TOPO: </part>
+            <part type="c"> </part>
+            <part>REPLACEMENT VELOCITY: </part>
         </line>
         <line number="C08">
         </line>
         <line number="C09">
-			<part>PROCESSING SEQUENCE:</part>
+			<part>PROCESSING SEQUENCE: </part>
         </line>
         <line number="C10">
         </line>
@@ -76,7 +77,7 @@
         <line number="C28">
         </line>
         <line number="C29">
-			<part>HEADER DESCRIPTION:</part>
+			<part>HEADER DESCRIPTION: </part>
         </line>
         <line number="C30">
             <part>CDP-21 (I4); CDP X-181 (I4); CDP Y-185 (I4); CDP Z-41 (I4);</part>
