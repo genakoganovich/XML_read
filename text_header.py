@@ -9,17 +9,17 @@ def print_xml():
             print('C{0:2d}  '.format(count), end='')
 
             for part in line.getElementsByTagName('part'):
-                print_part(part, part.getElementsByTagName('q'))
+                print(select_part(part, part.getElementsByTagName('q')), end='')
 
             print()
             count += 1
 
 
-def print_part(part, q):
+def select_part(part, q):
     if q:
-        print(' ' * int(q[0].childNodes[0].data), end='')
+        return ' ' * int(q[0].childNodes[0].data)
     else:
-        print(part.childNodes[0].data, end='')
+        return part.childNodes[0].data
 
 
 if __name__ == '__main__':
