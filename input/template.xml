@@ -8,141 +8,101 @@
 			<part>CLIENT:</part>
             <part><q>24</q></part>
             <part>PROCESSING COMPANY: GEOMAGE 2003 LTD.</part>
-            <part><q>7</q></part>
         </line>
         <line number="C02">
 			<part>LINE:</part>
             <part><q>26</q></part>
             <part>AREA:</part>
-            <part><q>39</q></part>
         </line>
         <line number="C03">
 			<part>SAMPLE INTERVAL:</part>
             <part><q>15</q></part>
             <part>SAMPLE TRACE LENGTH:</part>
-            <part><q>24</q></part>
         </line>
         <line number="C04">
-            <part><q>75</q></part>
         </line>
         <line number="C05">
 			<part>DATA:</part>
-            <part><q>70</q></part>
         </line>
         <line number="C06">
 			<part>PRODUCT:</part>
-            <part><q>67</q></part>
         </line>
         <line number="C07">
             <part>DATUM/TOPO:</part>
 			<part><q>20</q></part>
             <part>REPLACEMENT VELOCITY:</part>
-            <part><q>23</q></part>
         </line>
         <line number="C08">
-            <part><q>75</q></part>
         </line>
         <line number="C09">
 			<part>PROCESSING SEQUENCE:</part>
-            <part><q>55</q></part>
         </line>
         <line number="C10">
-            <part><q>75</q></part>
         </line>
         <line number="C11">
-            <part><q>75</q></part>
         </line>
         <line number="C12">
-            <part><q>75</q></part>
         </line>
         <line number="C13">
-            <part><q>75</q></part>
         </line>
         <line number="C14">
-            <part><q>75</q></part>
         </line>
         <line number="C15">
-            <part><q>75</q></part>
         </line>
         <line number="C16">
-            <part><q>75</q></part>
         </line>
         <line number="C17">
-            <part><q>75</q></part>
         </line>
         <line number="C18">
-            <part><q>75</q></part>
         </line>
         <line number="C19">
-            <part><q>75</q></part>
         </line>
         <line number="C20">
-            <part><q>75</q></part>
         </line>
         <line number="C21">
-            <part><q>75</q></part>
         </line>
         <line number="C22">
-            <part><q>75</q></part>
         </line>
         <line number="C23">
-            <part><q>75</q></part>
         </line>
         <line number="C24">
-            <part><q>75</q></part>
         </line>
         <line number="C25">
-            <part><q>75</q></part>
         </line>
         <line number="C26">
-            <part><q>75</q></part>
         </line>
         <line number="C27">
-            <part><q>75</q></part>
         </line>
         <line number="C28">
-            <part><q>75</q></part>
         </line>
         <line number="C29">
 			<part>HEADER DESCRIPTION:</part>
-            <part><q>56</q></part>
         </line>
         <line number="C30">
             <part>CDP-21 (I4); CDP X-181 (I4); CDP Y-185 (I4); CDP Z-41 (I4);</part>
-            <part><q>16</q></part>
         </line>
         <line number="C31">
             <part>SCALAR TO ALL ELEVATIONS-69 (I2);</part>
-            <part><q>42</q></part>
         </line>
         <line number="C32">
             <part>SCALAR TO ALL COORDINATES-71 (I2);</part>
-            <part><q>41</q></part>
         </line>
         <line number="C33">
-            <part><q>75</q></part>
         </line>
         <line number="C34">
-            <part><q>75</q></part>
         </line>
         <line number="C35">
-            <part><q>75</q></part>
         </line>
         <line number="C36">
-            <part><q>75</q></part>
         </line>
         <line number="C37">
-            <part><q>75</q></part>
         </line>
         <line number="C38">
-            <part><q>75</q></part>
         </line>
         <line number="C39">
-            <part><q>75</q></part>
         </line>
         <line number="C40">
 			<part>END EBCDIC</part>
-            <part><q>65</q></part>
         </line>
 
     </lines>
