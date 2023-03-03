@@ -2,23 +2,26 @@
 <part_header>
     <lines_number>40</lines_number>
     <line_length>80</line_length>
-    <column_width>31</column_width>
+    <left_width>31</left_width>
+    <right_width>44</right_width>
 
     <lines>
         <line number="C01">
 			<part>CLIENT: </part>
-            <part type="c"> </part>
+            <part column="left"> </part>
             <part>PROCESSING COMPANY: GEOMAGE 2003 LTD.</part>
         </line>
         <line number="C02">
 			<part>LINE: </part>
-            <part type="c"> </part>
+            <part column="left"> </part>
             <part>AREA:</part>
+            <part column="right"> </part>
         </line>
         <line number="C03">
 			<part>SAMPLE INTERVAL: </part>
-            <part type="c"> </part>
+            <part column="left"> </part>
             <part>SAMPLE TRACE LENGTH:</part>
+            <part column="right"> </part>
         </line>
         <line number="C04">
         </line>
@@ -30,8 +33,9 @@
         </line>
         <line number="C07">
             <part>DATUM/TOPO: </part>
-            <part type="c"> </part>
+            <part column="left"> </part>
             <part>REPLACEMENT VELOCITY: </part>
+            <part column="right"> </part>
         </line>
         <line number="C08">
         </line>
