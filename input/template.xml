@@ -13,17 +13,17 @@
         </line>
         <line number="C02">
 			<part>LINE: </part>
-            <part info="sgy"></part>
+            <part info="sgy line"></part>
             <part column="left"></part>
             <part>AREA: </part>
             <part info="xml area"></part>
         </line>
         <line number="C03">
 			<part>SAMPLE INTERVAL: </part>
-            <part info="sgy"></part>
+            <part info="sgy sample_interval"></part>
             <part column="left"></part>
             <part>SAMPLE TRACE LENGTH: </part>
-            <part info="sgy"></part>
+            <part info="sgy trace_length"></part>
         </line>
         <line number="C04">
         </line>
@@ -37,7 +37,7 @@
         </line>
         <line number="C07">
             <part>DATUM/TOPO: </part>
-            <part info="sgy"></part>
+            <part info="sgy datum"></part>
             <part column="left"></part>
             <part>REPLACEMENT VELOCITY: </part>
             <part info="xml velocity"></part>
