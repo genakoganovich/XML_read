@@ -21,7 +21,11 @@ def print_xml():
 
 
 def get_data_to_append(line_parts, part, left_width):
-    if part.hasAttribute("info"):
+    if part.getAttribute("info").startswith('xml'):
+        with minidom.parse('input/Dombey2D_info.xml') as file:
+            info_value = file.getElementsByTagName(part.getAttribute("info").split()[1])[0].childNodes[0].data
+        return info_value
+    elif part.getAttribute("info").startswith('sgy'):
         return ''
     elif part.getAttribute("column") == "left":
         return ' ' * (left_width - sum(map(len, line_parts)))
