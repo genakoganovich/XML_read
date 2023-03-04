@@ -1,41 +1,46 @@
 <?xml version="1.0"?>
-<part_header>
+<text_header>
     <lines_number>40</lines_number>
-    <line_length>80</line_length>
+    <total_width>80</total_width>
     <left_width>31</left_width>
-    <right_width>44</right_width>
 
     <lines>
         <line number="C01">
 			<part>CLIENT: </part>
-            <part column="left"> </part>
+            <part info="xml client"></part>
+            <part column="left"></part>
             <part>PROCESSING COMPANY: GEOMAGE 2003 LTD.</part>
         </line>
         <line number="C02">
 			<part>LINE: </part>
-            <part column="left"> </part>
-            <part>AREA:</part>
-            <part column="right"> </part>
+            <part info="sgy"></part>
+            <part column="left"></part>
+            <part>AREA: </part>
+            <part info="xml area"></part>
         </line>
         <line number="C03">
 			<part>SAMPLE INTERVAL: </part>
-            <part column="left"> </part>
-            <part>SAMPLE TRACE LENGTH:</part>
-            <part column="right"> </part>
+            <part info="sgy"></part>
+            <part column="left"></part>
+            <part>SAMPLE TRACE LENGTH: </part>
+            <part info="sgy"></part>
         </line>
         <line number="C04">
         </line>
         <line number="C05">
-			<part>DATA:</part>
+			<part>DATE: </part>
+            <part info="xml date"></part>
         </line>
         <line number="C06">
-			<part>PRODUCT:</part>
+			<part>PRODUCT: </part>
+            <part info="xml product"></part>
         </line>
         <line number="C07">
             <part>DATUM/TOPO: </part>
-            <part column="left"> </part>
+            <part info="sgy"></part>
+            <part column="left"></part>
             <part>REPLACEMENT VELOCITY: </part>
-            <part column="right"> </part>
+            <part info="xml velocity"></part>
         </line>
         <line number="C08">
         </line>
@@ -111,4 +116,4 @@
         </line>
 
     </lines>
-</part_header>
+</text_header>
