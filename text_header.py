@@ -67,7 +67,7 @@ def print_xml(sgy_file):
 
 def get_data_to_append(line_parts, part, left_width, sgy_file):
     if part.getAttribute("info").startswith('xml'):
-        with minidom.parse('input/Dombey2D_info.xml') as file:
+        with minidom.parse('input/Project_info.xml') as file:
             info_value = file.getElementsByTagName(part.getAttribute("info").split()[1])[0].childNodes[0].data
         return info_value
 
@@ -88,5 +88,5 @@ def test():
 
 
 if __name__ == '__main__':
-    print_xml(Sgy('./input/', 'URH-618_MF_PSTM_Stack__20230304.sgy'))
+    print_xml(Sgy('./input/', 'LINE-NAME_PRODUCT-NAME__20230304.sgy'))
     # test()

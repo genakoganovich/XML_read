@@ -36,8 +36,8 @@
             <part info="xml product"></part>
         </line>
         <line number="C07">
-            <part>DATUM/TOPO: </part>
-            <part info="sgy datum"></part>
+            <part>DATUM: </part>
+            <part info="xml datum"></part>
             <part column="left"></part>
             <part>REPLACEMENT VELOCITY: </part>
             <part info="xml velocity"></part>
